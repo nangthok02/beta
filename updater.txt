@@ -1,13 +1,13 @@
 {
-  "indri_update": [
+  "beta_update": [
     {
- "version":"5.74.1",
+ "version":"5.331.0",
  "title":"Update Tersedia",
- "description":"SalMod inDriver merekomendasikan Anda
-perbarui ke versi terbaru 5.74.1 Anda
+ "description":"SalMod Grab merekomendasikan Anda
+perbarui ke versi terbaru 5.330.0 Anda
 dapat tetap online aplikasinya sementara
 mengunduh pembaruan.",
-"download":"https://drive.google.com/file/d/179YCBcvLQH4VS5rlUWO-lD0QSNsM6xPH/view?usp=drivesdk"
+"download":"https://drive.google.com/"
 }
   ]
 }
