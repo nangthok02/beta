@@ -1,7 +1,7 @@
 {
   "beta_update": [
     {
- "version":"5.331.0",
+ "version":"5.330.0",
  "title":"Update Tersedia",
  "description":"SalMod Grab merekomendasikan Anda
 perbarui ke versi terbaru 5.330.0 Anda
