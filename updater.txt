@@ -1,10 +1,10 @@
 {
-  "beta_update": [
+  "salmodvip_update": [
     {
- "version":"5.330.0",
+ "version":"5.74.1",
  "title":"Update Tersedia",
- "description":"SalMod Grab merekomendasikan Anda
-perbarui ke versi terbaru 5.330.0 Anda
+ "description":"SalMod Indrive merekomendasikan Anda
+perbarui ke versi terbaru 5.74.1 Anda
 dapat tetap online aplikasinya sementara
 mengunduh pembaruan.",
 "download":"https://drive.google.com/"
